@@ -5,7 +5,8 @@ Various tools are used to provide automation to creators to help them in shaping
 **Olivia** 
 spellcheck in iMessages
 
-
+**Angeline**
+Websites that automatically adjust to different users, having saved information from their previous visits. 
 
 
 
