@@ -9,3 +9,5 @@ pinterest
 Links to websites
 
 Commits in GitHub
+
+Computer parts + devices
