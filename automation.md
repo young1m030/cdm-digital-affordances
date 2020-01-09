@@ -8,6 +8,6 @@ spellcheck in iMessages
 **Angeline**
 Websites that automatically adjust to different users, having saved information from their previous visits. 
 
-
-
+**Sydney Masterson**
+Digital Images can be automatically filtered in order to improved quality. 
 
