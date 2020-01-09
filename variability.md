@@ -3,8 +3,8 @@ Examples of variability
 * Bandersnatch
 * Shuffle feature on musical devices
 * Rollover effect v. clicking on an image
-* 
-
+* Statistical groups 
+* Computer generated sports models 
 
 
 
