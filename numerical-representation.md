@@ -1,9 +1,9 @@
 Graphs
 Text
-Algorithms
 
+Image Files
 
-
+Video
 
 
 
