@@ -9,3 +9,4 @@ Analog to digital
 Classes going from in-person to digital
 
 How you get places changed with the invention of roads
+Road trips changed when GPS was created (no longer needed maps)
