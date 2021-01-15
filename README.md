@@ -24,7 +24,7 @@ For this particular assignment, I'm asking you to work in groups to apply the id
    - **As your first commit, put in about ten blank lines.** This should allow each member of the group to later edit simultaneously, without conflicting with each other when you merge.
    - Use a meaningful commit message, i.e. don't accept the default "create new file": instead, say *what* is new in this version, e.g. "add starter file with 10 blank lines".
 2. In that file, you're going to **make a list** of examples of where you've seen that principle in action.
-   - What does this principle help you notice about how or why Su constructed her piece the way she did? 
+   - What does this principle help you notice about how or why Su constructed her piece the way she did?
    - What does this principle help you notice, or wonder, about your favorite website or app?
    - What other examples from your digital day-to-day come to mind as you think about this principle?
 3. **Take turns** adding to the file, saving and committing as you go, so that **everyone in the group gets to make at least one commit.**
@@ -36,6 +36,8 @@ For this particular assignment, I'm asking you to work in groups to apply the id
    - Verify that the arrow is pointing from your repo (the "head") back to the original (the "base")... ![upstream pull request 3](img/github-upstream-pull-request-3.png)
    - and click to start the merge and review process, as above!
 
-EXT: All done with the main activity? Consider further: Manovich was talking about "new media," not "digital media." Is there a difference? If time allows, **make some notes.**
+EXT: All done with the main activity? Read the file in this repo (folder) called `murray--four-affordances.md`, and follow the prompts inside it.
+
+EXT: Consider further: Manovich was talking about "new media," but Murray was talking about "digital media." Is there a difference? If time allows, **make some notes in the murray--four-affordances file.**
 
 EXT: If you finish working on all that and are still waiting for other groups, go back to step II.1 and move on to the next "principle." Start by "pulling" the latest version from the upstream branch and then use pull requests, so you can merge with the other group's file.
