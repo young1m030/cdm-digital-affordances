@@ -3,7 +3,7 @@
 ## A few terms of art
 A **repository**, often abbreviated to **repo**, is just a fancy way of saying _folder_. It's a bunch of files. It can have subfolders inside it. You're looking at a repository right now! (See the files up above this text?)
 
-This text is, itself, coming from a single file inside the repository, with the special name of **README.md**. Anything appearing in the README will show up here.
+This text is, itself, coming from a single file inside the repository, with the special name of **README.md**. Anything appearing in the README will show up here. The file extension, '.md', refers to [Markdown](https://www.markdownguide.org/basic-syntax/), a simple syntax for signaling display formats (bold, italic, headings, etc) in plain text files. As you can see here, GitHub knows how to render markup like `**repo**` in bold. Follow that link for an overview of markdown syntax you can use.
 
 To **fork** a repo is to _make a copy_ of it: all the files, and – interestingly – the complete \*history\* of those files. This lets you safely play with and edit the files, without worrying that you'll overwrite someone else's work. For today, I've asked you to work in teams; for the major projects coming up, you'll each have an individual set of files.
 
