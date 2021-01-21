@@ -32,7 +32,7 @@ For this particular assignment, I'm asking you to work in groups to apply the id
    - If you're patient enough to go one at a time, you can commit straight to the main branch without deleting each other's contributions. But to edit at the same time and _merge_ the edits, practice using _pull requests_ instead. This ensures you're always adding to the most recent version, even if it's changed since you started your edit.
    - Pull requests take more clicks, but they're worth it when working with collaborators! ![img/series of screenshots demonstrating the steps of a commit as branch + pull request](img/github-pull-request-sequence-with-arrows.png)
 4. Did you know that when you fork, you can also file a pull request back to the original repository?
-   - From either the home screen of the repo or the "Pull Requests" tab, click on the "New pull request" button... ![upstream pull request 1](img/github-upstream-pull-request-1.png) !<!-- [upstream pull request 2](github-upstream-pull-request-2.png) -->
+   - From either the home screen of the repo or the "Pull Requests" tab, click on the "New pull request" button... ![upstream pull request 1](img/github-upstream-pull-request-1.png) <!-- ![upstream pull request 2](github-upstream-pull-request-2.png) -->
    - Verify that the arrow is pointing from your repo (the "head") back to the original (the "base")... ![upstream pull request 3](img/github-upstream-pull-request-3.png)
    - and click to start the merge and review process, as above!
 
