@@ -17,7 +17,7 @@ For this particular assignment, I'm asking you to work in groups to apply the id
 4. Everyone else will need to check their email and accept the invitation.
 
 ### II. Do the work
-1. **Create a new file**, named for one of the five principles in Sorapure: (1) numerical-representation.md, (2) modularity.md, (3) automation.md, (4) variability.md, or (5) transcoding.md
+1. **Create a new file**, named for one of the five principles in Su: (1) numerical-representation.md, (2) modularity.md, (3) automation.md, (4) variability.md, or (5) transcoding.md
    - Five groups, so each group will start with a different file: use your breakout room number with the list above.
    - Note that filenaming convention: all lowercase, no spaces.
    - The .md file extension lets you use ["markdown" syntax](https://guides.github.com/features/mastering-markdown/), like using asterisks to mark list items.
@@ -28,7 +28,7 @@ For this particular assignment, I'm asking you to work in groups to apply the id
    - What does this principle help you notice, or wonder, about your favorite website or app?
    - What other examples from your digital day-to-day come to mind as you think about this principle?
 3. **Take turns** adding to the file, saving and committing as you go, so that **everyone in the group gets to make at least one commit.**
-   - Each tiem, use meaningful commit messages: rather than accept the default message, like "update modularity.md" (which tells us nothing about _how_ you've updated it), write something like "add example from nytimes.com."
+   - Each time, use meaningful commit messages: rather than accept the default message, like "update modularity.md" (which tells us nothing about _how_ you've updated it), write something like "add example from nytimes.com."
    - If you're patient enough to go one at a time, you can commit straight to the main branch without deleting each other's contributions. But to edit at the same time and _merge_ the edits, practice using _pull requests_ instead. This ensures you're always adding to the most recent version, even if it's changed since you started your edit.
    - Pull requests take more clicks, but they're worth it when working with collaborators! ![img/series of screenshots demonstrating the steps of a commit as branch + pull request](img/github-pull-request-sequence-with-arrows.png)
 4. Did you know that when you fork, you can also file a pull request back to the original repository?
